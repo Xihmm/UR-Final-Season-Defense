@@ -41,7 +41,7 @@ This role required not only coding, but also decision-making, prioritization, an
 ---
 
 ## 📂 Repository Structure
-
+```
 .
 ├── Final Season Defense
 ├── img
@@ -51,7 +51,7 @@ This role required not only coding, but also decision-making, prioritization, an
 
 
 Python scripts were used to preprocess and manage image assets efficiently during development.
-
+```
 ---
 
 ## ✨ Highlights
