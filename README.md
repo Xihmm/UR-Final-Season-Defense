@@ -43,11 +43,11 @@ This role required not only coding, but also decision-making, prioritization, an
 ## 📂 Repository Structure
 
 .
-├ ── Final Season Defense/ # Main Xcode project files
-├ ── img/ # Game assets and images
-├ ── process_images.py # Image preprocessing utilities
-├ ── restore_snowball.py # Asset restoration / transformation logic
-└ ── .gitignore
+├── Final Season Defense
+├── img
+├── process_images.py
+├── README.md
+└── restore_snowball.py
 
 
 Python scripts were used to preprocess and manage image assets efficiently during development.
